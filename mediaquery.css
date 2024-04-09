@@ -1,6 +1,27 @@
 /* mediaquery.css */
 
 @media screen and (max-width: 768px) {
+    *{
+        font-size: 8px;
+    }
+    nav{
+        height: 10vh;
+    }
+    .dd{
+        width: 10px;
+        height: 12px;
+        gap: 10px;
+        align-items: center;
+    }
+    .dd > span{
+        white-space: nowrap; /* Prevent text from wrapping */
+
+        text-overflow: ellipsis;
+    }
+    input{
+        width: 80px;
+        height: 15px;
+    }
     .container {
         justify-content: flex-start;
     }
@@ -27,3 +48,21 @@
     }
     
 }
+
+
+@media screen and (max-width: 300px) {
+
+    input{
+        width: 70px;
+    }
+    select{
+        width: 60px;
+    }
+    .dd{
+        gap: 5px;
+    }
+    form{
+        gap: 5px;
+    }
+}
+   
