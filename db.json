@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "releaseDate": "1994-10-14",
+      "posterURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf1DK32xKMQzqSl8wnY1BLVu_gdwsRYzVSNM6A03r6c-fEwrif8raKzkFRuerw1KHdDICvOw",
+      "imdbRating": 9.3
+    },
+    {
+      "name": "The Godfather",
+      "releaseDate": "1972-03-24",
+      "posterURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAY2xsJVIZxm3K0gNtOMr9CSCvLdr5kdo3V3pv2HMuUkTBhFzRe5-b8NDRmO1mt5S5Xp_YyQ",
+      "imdbRating": 9.2
+    },
+    {
+      "name": "The Dark Knight",
+      "releaseDate": "2008-07-18",
+      "posterURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfE_qrYMBZ_JB8om-34WGaZARhpX26yWRttqIDvn4_7l--UzX8mxKcPrc59IcvTpEA_G8gPA",
+      "imdbRating": 9
+    },
+    {
+      "name": "Forrest Gump",
+      "releaseDate": "1994-07-06",
+      "posterURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNI2SBzYW95C8Wo7zYV3bzVzem58xPnUzsZGLsnLg17mSMgR574acQZpgNK7a5XeF3THjqgQ",
+      "imdbRating": 8.8
+    },
+    {
+      "name": "Inception",
+      "releaseDate": "2010-07-16",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuN7mv1oZCcC8jvHXXKGgXvF2GpidqAXH8Yw&s",
+      "imdbRating": 8.8
+    },
+    {
+      "name": "Interstellar",
+      "releaseDate": "2014-11-07",
+      "posterURL": "https://is1-ssl.mzstatic.com/image/thumb/9dvyXLN2iUE6XxYWReYusw/1200x675mf.jpg",
+      "imdbRating": 8.7
+    },
+    {
+      "name": "Gladiator",
+      "releaseDate": "2000-09-01",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzT2Ev_J0xtCX_zOC56YPL9zwt4PhFu79jO171BhtfCNYUI4SFo9dmwqJkw1753NUYvMuKg",
+      "imdbRating": 8.5
+    },
+    {
+      "name": "12th Fail",
+      "releaseDate": "2023-10-27",
+      "posterURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjfhKU4GbUEUjvwu3QTC3_cM3H_ifSuoVYbYiIgFudOPCC3_N4HTucYjzVhgMbEDQ6yN6Y",
+      "imdbRating": 9
+    },
+    {
+      "name": "Avengers: Infinity War",
+      "releaseDate": "2018-04-27",
+      "posterURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz2_cEexTdYFaQJFUwRZrG4IrM1510eWIkeQhwqq2GbNhxDJZUml6g1Ft9iKyuHJhG15wGUQ",
+      "imdbRating": 8.4
+    },
+    {
+      "name": "Dabang",
+      "releaseDate": "2010-09-10",
+      "posterURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbq2olh2YEOTBX-Qy_cryhZpGeVzgSUgV_qzaHRpStQjIv-f5TBevqNbD1ZPpCEBdmVTRC",
+      "imdbRating": 6.2
+    }
+  ]
+}

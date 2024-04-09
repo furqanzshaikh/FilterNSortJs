@@ -1,0 +1,29 @@
+/* mediaquery.css */
+
+@media screen and (max-width: 768px) {
+    .container {
+        justify-content: flex-start;
+    }
+
+    .card {
+        width: calc(100% - 40px); 
+        margin: 20px 20px 0 20px; 
+        padding: 20px;
+    }
+    .card > img{
+        height: 300px;
+    
+    }
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .card {
+        width: calc(50% - 40px); 
+    }
+    .card > img{
+        height: 300px;
+    
+    }
+    
+}

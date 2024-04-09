@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Movie Data</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="mediaquery.css">
+</head>
+<body>
+<nav>
+    <div class="dd">
+        <label >Order by IMDb Rating</label>
+        <select id="dropdown">
+            
+            <option value="asc">Low to High</option>
+            <option selected value="desc">High to Low</option>
+        </select>
+    </div>
+    
+    <form id="search-form">
+        <input type="text" id="search-input" placeholder=" Enter year"> 
+        <button type="submit">Search</button>
+    </form>
+</nav>
+<div id="movie-list" class="container"></div>
+<script src="script.js"></script>
+</body>
+</html>
