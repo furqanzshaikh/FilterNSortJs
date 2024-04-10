@@ -1,6 +1,6 @@
 const fetchData = async () => {
     try {
-        const data = await fetch('http://localhost:8080/movies');
+        const data = await fetch(' https://movie-json-server-bhus.onrender.com/movies');
         const movies = await data.json();
         return movies;
     } catch (error) {
@@ -67,7 +67,7 @@ fetchData().then(renderMovies);
 
 const searchByYear = async (year) => {
     try {
-        const data = await fetch(`http://localhost:8080/movies?year=${year}`);
+        const data = await fetch(`https://movie-json-server-bhus.onrender.com/movies?year=${year}`);
         const movies = await data.json();
         renderMovies(movies);
     } catch (error) {
